@@ -1,2 +1,0 @@
-# Janpita
-Proyecto robotica
